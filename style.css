@@ -180,7 +180,9 @@ aside > ul {
 footer {
     background-color: #063d1e;
     color: white;
-
+    min-width: 320px;
+    max-width: 970px;
+    margin: auto;
 
 }footer p {
     margin: 0px;
